@@ -6,6 +6,7 @@ Current implementation:
 
 - Have set up screen capture via mss library.
 - Defined regions for later use in RL - getting distance, time remaining, whether there's an obstacle, etc.
+- Defined helper functions to control inputs via pyautogui.
 
 ![Alt text](assets/regionsSC.png)
 
